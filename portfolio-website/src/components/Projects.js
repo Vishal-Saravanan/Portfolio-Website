@@ -46,6 +46,35 @@ const Projects = () => {
               </div>
             </div>
           </div>
+          <div className="row">
+            <div className="col-md-4 d-flex justify-content-center">
+              <div className="card mb-4" style={{ ...cardStyle, ...cardHoverStyle }}>
+                <img src="https://media.idownloadblog.com/wp-content/uploads/2019/03/WhatsApp-white-logo-on-green-background.jpg" className="card-img-top" alt="" style={{ height: '150px' }} />
+                <div className="card-body">
+                  <h6 className="card-title">Whatsapp Application</h6>
+                  <p className="card-text">Developed a cloned version of whatsapp with its functionalities.</p>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-4 d-flex justify-content-center">
+              <div className="card mb-4" style={{ ...cardStyle, ...cardHoverStyle }}>
+                <img src="https://static.wixstatic.com/media/f3e5b6_063c4a66b7554b18adc5e37b562a1309~mv2.jpg/v1/fill/w_980,h_600,al_c,q_85/f3e5b6_063c4a66b7554b18adc5e37b562a1309~mv2.jpg" className="card-img-top" alt="" style={{ height: '150px' }} />
+                <div className="card-body">
+                  <h6 className="card-title">Automatic number plate recognition</h6>
+                  <p className="card-text">Using python we developed an app which can mark a vehicle.</p>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-4 d-flex justify-content-center">
+              <div className="card mb-4" style={{ ...cardStyle, ...cardHoverStyle }}>
+                <img src="https://floridainsider.com/wp-content/uploads/2021/03/facial-recognition.png" className="card-img-top" alt="" style={{ height: '150px' }} />
+                <div className="card-body">
+                  <h6 className="card-title">Face Recognition App</h6>
+                  <p className="card-text">Developed a python app with user interface whcih can mark attendance of a person using face recognition.</p>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
