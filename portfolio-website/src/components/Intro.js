@@ -19,7 +19,7 @@ const Intro = () => {
             <LinkedInIcon fontSize='large' color='primary'/>
           </IconButton>
         </a>
-        <a href="https://github.com/VishalSaravanan-tech" target='_blank'>
+        <a href="https://github.com/Vishal-Saravanan" target='_blank'>
           <IconButton>
             <GitHubIcon fontSize='large' style={{ color: 'black' }}/>
           </IconButton>
